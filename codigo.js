@@ -40,7 +40,7 @@ function cargarDatos() {
                     contenedorCompletados.appendChild(li);
                 }
             }
- as asd as
+
             mostrarBottonEliminarTodo();
     });
 
